@@ -1,0 +1,22 @@
+
+P
+java:S1118":Add a private constructor to hide the implicit public one.(½¢‘«
+C
+java:S1172 "-Remove this unused method parameter "driver".(Ş²êˆ
+F
+java:S14810"+Remove this unused "driver" local variable.(°ü»›ıÿÿÿÿ
+M
+java:S11351"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+C
+java:S11728"-Remove this unused method parameter "driver".(°©œ§
+H
+java:S1172="-Remove this unused method parameter "driver".(¦°Ş¼úÿÿÿÿ
+H
+java:S1172B"-Remove this unused method parameter "driver".(•Öäşÿÿÿÿ
+C
+java:S1172H"-Remove this unused method parameter "driver".(Òªé­
+s
+java:S1488D"]Immediately return this expression instead of assigning it to the temporary variable "title".(ú¯¾ø
+v
+java:S1488J"`Immediately return this expression instead of assigning it to the temporary variable "pageText".(æ¨Ç
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÄÍû

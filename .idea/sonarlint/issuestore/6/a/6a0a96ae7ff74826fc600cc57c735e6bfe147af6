@@ -1,0 +1,24 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(¸Ú’Ù
+Q	java:S125""<This block of commented-out lines of code should be removed.(¤®É—
+A
+java:S1075#"&Remove this hard-coded path-delimiter.(ßğÒŠşÿÿÿÿ
+V	java:S125$"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+H
+java:S1172'"-Remove this unused method parameter "driver".(®ä‹Æùÿÿÿÿ
+Q	java:S1251"<This block of commented-out lines of code should be removed.(‘Âô×
+f	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­è‘
+k	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÎ·¤úÿÿÿÿ
+n
+java:S1104"XMake fileLocation a static final constant or non-public and provide accessors if needed.(°ÇÅÔ
+j
+java:S1104"TMake fileInfo a static final constant or non-public and provide accessors if needed.(¡ö¹Ş
+o
+java:S1104"TMake fileName a static final constant or non-public and provide accessors if needed.(°ÂÈäüÿÿÿÿ
+H
+java:S1444"2Make this "public static fileLocation" field final(°ÇÅÔ
+D
+java:S1444".Make this "public static fileInfo" field final(¡ö¹Ş
+I
+java:S1444".Make this "public static fileName" field final(°ÂÈäüÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÄÍû

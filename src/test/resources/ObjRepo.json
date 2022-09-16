@@ -1,0 +1,26 @@
+{
+  "signup": {
+    "changeLanguage": "id;languages",
+    "englishLanguage": "xpath;//a[normalize-space()='English']",
+    "account": "xpath;//button[@id='ACCOUNT']",
+    "customerSignup": "xpath;//a[normalize-space()='Customer Signup']",
+    "firstName": "xpath;//input[@placeholder='First Name']",
+    "lastName": "xpath;//input[@placeholder='Last Name']",
+    "phoneNumber": "xpath;//input[@placeholder='Phone']",
+    "mailAddress": "xpath;//input[@placeholder='Email']",
+    "password":"xpath;//input[@placeholder='Password']",
+    "capthaCheckBox": "xpath;//*[@id='recaptcha-anchor']/div[1]",
+    "signupBtn": "xpath;//button[@id='button']"
+  },
+  "login": {
+    "customerLogin": "xpath;//a[normalize-space()='Customer Login']",
+    "mailAddress": "xpath;//input[@placeholder='Email']",
+    "userPassword": "xpath;//input[@placeholder='Password']",
+    "rememberMe": "xpath;//label[normalize-space()='Remember Me']",
+    "loginBtn": "xpath;//span[normalize-space()='Login']",
+
+    "samsungElectronicsCheckBox": "xpath;//span[contains(text(),'Samsung Electronics')]",
+    "samsungProduct": "xpath;//span[normalize-space()='Samsung Tab A7 Lite 8.7\" Gray 32GB (SM-T220NZAAXAR)']",
+    "addToCartButton": "id;add-to-cart-button"
+  }
+}

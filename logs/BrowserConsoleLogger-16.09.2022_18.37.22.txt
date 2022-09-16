@@ -1,0 +1,9 @@
+Found error in logs: https://phptravels.net/login - [DOM] Found 2 elements with non-unique id #: (More info: https://goo.gl/9p2vKq) %o %o
+Found error in logs: https://phptravels.net/login/failed - [DOM] Found 2 elements with non-unique id #: (More info: https://goo.gl/9p2vKq) %o %o
+I am in onFinish method Test On Chrome
+
+===============================================
+QA Automation Task Suite
+Total tests run: 4, Passes: 3, Failures: 0, Skips: 0, Retries: 1
+===============================================
+

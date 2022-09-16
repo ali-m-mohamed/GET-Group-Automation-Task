@@ -1,0 +1,12 @@
+
+r
+java:S1450"\Remove the "seleniumProxy" field and declare it as a local variable in the relevant methods.(¸îÅ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(öº¹Ğşÿÿÿÿ
+u
+java:S1488<"_Immediately return this expression instead of assigning it to the temporary variable "options".(Á±è»
+m
+java:S1104"WMake proxyServer a static final constant or non-public and provide accessors if needed.(ºÉ›†
+G
+java:S1444"1Make this "public static proxyServer" field final(ºÉ›†
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı—ÿS

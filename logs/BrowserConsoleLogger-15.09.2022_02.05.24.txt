@@ -1,0 +1,7 @@
+I am in onFinish method Test On Chrome
+
+===============================================
+QA Automation Task Suite
+Total tests run: 4, Passes: 2, Failures: 1, Skips: 0, Retries: 1
+===============================================
+

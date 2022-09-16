@@ -1,0 +1,23 @@
+
+`	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(•ñÎÿÿÿÿÿ
+w
+java:S1450"\Remove the "eventListener" field and declare it as a local variable in the relevant methods.(™¢Úöşÿÿÿÿ
+t
+java:S1450"^Remove the "firingWebDriver" field and declare it as a local variable in the relevant methods.(¢ÒŒù
+L
+java:S2696 "6Make the enclosing method "static" or remove this set.(õìğ«
+Q
+java:S2696!"6Make the enclosing method "static" or remove this set.(ĞªŸşıÿÿÿÿ
+L
+java:S2696""6Make the enclosing method "static" or remove this set.(åºú
+L
+java:S2696$"6Make the enclosing method "static" or remove this set.(º¸Òï
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ªİôÿÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(µ‰ğÙ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(±‘ÏØ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(ªİôÿÿÿÿÿ
+m
+java:S1104"RMake driver a static final constant or non-public and provide accessors if needed.(ÜçÁÈûÿÿÿÿ
+G
+java:S1444",Make this "public static driver" field final(ÜçÁÈûÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı—ÿS
